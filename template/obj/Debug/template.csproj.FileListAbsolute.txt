@@ -1,0 +1,24 @@
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\bin\Debug\template.exe.config
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\bin\Debug\template.exe
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\bin\Debug\template.pdb
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\bin\Debug\OpenTK.dll
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\bin\Debug\OpenTK.dll.config
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\obj\Debug\template.exe
+C:\Users\Steven\Google Drive\Practica\Practicum 2\template\obj\Debug\template.pdb
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.exe.config
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.exe
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.pdb
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\OpenTK.dll
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\OpenTK.dll.config
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.exe
+C:\Users\Renzo\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.pdb
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.exe.config
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.exe
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\template.pdb
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\OpenTK.dll
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\bin\Debug\OpenTK.dll.config
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.csprojResolveAssemblyReference.cache
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.exe
+C:\Users\renzo.DCCOMPUTERS\Google Drive\Eerste Jaar\Blok 4\Graphics\Practica\Practicum 2\template\obj\Debug\template.pdb
